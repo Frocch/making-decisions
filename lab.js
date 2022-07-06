@@ -9,7 +9,7 @@
 //CODE HERE
 // const lovesCode = true
 
-// if ( lovesCode === true) {
+// if (lovesCode === true) {
 //   console.log("I love to code!")
 // } else {
 //   console.log("Coding has its challenges.")
@@ -83,9 +83,10 @@ let rain = true;
 
 //CODE HERE
 
-for (let i = 0; i < 10; i++){
-  console.log("Hello")
-}
+// for (let i = 0; i < 10; i++){
+//   console.log("Hello")
+// }
+
 ////////// PROBLEM 6 //////////
 
 /*
@@ -93,6 +94,10 @@ for (let i = 0; i < 10; i++){
 */
 
 //CODE HERE
+
+// for (let i = 0; i < 10; i++){
+//   console.log(i + 1)
+// }
 
 ////////// PROBLEM 7 //////////
 
@@ -102,6 +107,9 @@ for (let i = 0; i < 10; i++){
 
 //CODE HERE
 
+// for (let i = 0; i < 11; i++){
+//   console.log(10-i)
+// }
 
 ////////// PROBLEM 8 //////////
 
@@ -114,6 +122,11 @@ let passingScore = 7;
 
 //CODE HERE
 
+// while (score < passingScore){
+//   score += 1
+//   console.log("Your score is not enough")
+// }
+
 ////////// INTERMEDIATE PROBLEMS //////////
 
 ////////// PROBLEM 9 //////////
@@ -124,6 +137,16 @@ let passingScore = 7;
 */
 
 //CODE HERE
+
+// let changeMyMind = false
+
+// if (changeMyMind){
+//   changeMyMind = false
+//   console.log(changeMyMind)
+// } else {
+//   changeMyMind = true
+//   console.log(changeMyMind)
+// }
 
 ////////// PROBLEM 10 //////////
 // Using the "not" operator (!), change the current value of changeMyMind to true (it should currently be set to false due to the if-else statement in Problem 9). After you change the value of changeMyMind, console.log it's new value (it should now read true).
