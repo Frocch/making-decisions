@@ -163,3 +163,8 @@ let z = 5;
 
 //CODE HERE
 
+while (z > 0){
+  for ( i = z ; i > 0; i -= 1) {
+    console.log(i)
+  } z -= 1
+}
